@@ -1,0 +1,11 @@
+.nav-item {
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+.freeze {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
